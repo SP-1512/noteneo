@@ -1,0 +1,7 @@
+{
+  "name": "NoteNeo",
+  "description": "A student-focused note sharing and AI study companion app.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
